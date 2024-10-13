@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@wdio/cli": "^9.2.1",
+    "wdio-video-reporter": "^6.1.0"
+  }
+}
